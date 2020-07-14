@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4a9baa9-174b-487c-a224-5705a7bb6cc1" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/StepikPageObject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StepikPageObject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test_main_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StepikPageObject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_main_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_main_page" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594715262903</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1594719484407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594719484407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1594719513800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594719513800</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -58,6 +101,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="638" y="135" key="#test_main_page" timestamp="1594719712780">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="638" y="135" key="#test_main_page/0.0.1858.1080@0.0.1858.1080" timestamp="1594719712780" />
     <state x="788" y="438" key="Github.ShareDialog" timestamp="1594714923006">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -66,9 +113,13 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="698" y="245" key="Github.UntrackedFilesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594714948078" />
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594715265091">
+    <state x="430" y="185" key="SettingsEditor" timestamp="1594719853145">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1594715265091" />
+    <state x="430" y="185" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1594719853145" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594719516551">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1594719516551" />
   </component>
 </project>
